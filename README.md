@@ -1,6 +1,6 @@
 # git
 ## Author
-![image]()
+![image](https://github.com/Felistus-Chemutai/git/blob/main/Screenshot%202024-01-30%20093326.jpg)
 [Felistus Chemutai](https://github.com/Felistus Chemutai)
 
 
